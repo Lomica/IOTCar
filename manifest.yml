@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: mybluemix.net
-  name: CourseTryRobotCar1
-  host: coursetryrobotcar1
+  domain: stage1.mybluemix.net
+  name: CourseTryRobotCar
+  host: coursetryrobotcar
   disk_quota: 1024M
