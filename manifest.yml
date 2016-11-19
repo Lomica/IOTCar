@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: CourseTryRobotCar
-  host: coursetryrobotcar
+  name: CourseTryRobotCar1
+  host: coursetryrobotcar1
   disk_quota: 1024M
