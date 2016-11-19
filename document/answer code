@@ -14,4 +14,4 @@ app.js
 manifest.yml
 
 6. name: CourseTryRobotCar
-7. host: CourseTryRobotCar
+7. host: coursetryrobotcar
